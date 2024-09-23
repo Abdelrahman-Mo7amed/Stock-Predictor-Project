@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` for your project, including a brief introduction about yourself:
-
----
-
 # Stock Predictor Project 📈
 
 ### By Abdelrahman Mohamed
@@ -102,7 +98,3 @@ Here are some features planned for future development:
 ## 📝 License
 
 This project is licensed under the MIT License. Feel free to use and modify the code as you see fit!
-
----
-
-Feel free to personalize or adjust any parts to fit your style and project specifics!
