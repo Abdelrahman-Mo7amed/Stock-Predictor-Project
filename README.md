@@ -1,4 +1,4 @@
-# Stock Predictor Project 📈
+# MarketPredictorX Project 📈
 
 ### By Abdelrahman Mohamed
 
