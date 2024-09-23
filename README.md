@@ -37,7 +37,7 @@ The **Stock Predictor Project** is a Python-based tool designed for analyzing an
 
 ```
 .
-├── stock_predictor.py    # Main script containing all functionalities
+├── notebook.ipynb    # Main script containing all functionalities
 ├── README.md             # Documentation file
 └── requirements.txt      # Python dependencies
 ```
@@ -65,9 +65,9 @@ Follow these steps to get the project up and running on your local machine:
    ```
 
 4. **Run the app**:
-   Launch the stock predictor tool by running the script:
+   Launch the stock predictor tool by running the notebook cells:
    ```bash
-   python stock_predictor.py
+   notebook.ipynb
    ```
 
 ---
